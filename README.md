@@ -1,17 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Fadi N. Shouhfa</h1>
 <h3 align="center">Django Backend developer from Syria , A fan of Artificial Intelligence</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadi060703" alt="fadi060703" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fadishouhfa" target="blank"><img src="https://img.shields.io/twitter/follow/fadishouhfa?logo=twitter&style=for-the-badge" alt="fadishouhfa" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611vqueunuo3z8jqn9tn4tcccdy1ir9o3jc6viyvlld&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Django , Django Rest Framework**
 
 - 💬 Ask me about **C/C++ , Java , Python , Django**
 
 - 📫 How to reach me **fadishouhfa@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fadishouhfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadishouhfa" height="30" width="40" /></a>
