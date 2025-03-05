@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Django / Django REST FW <br>⚡ Fun fact : I don't hate JavaScript
+🔭 I’m currently working as a backend developer <br>🌱 Django / DRF / WS / GQL <br> 🌱 Database Designer <br> 🌱 Learning GOLang <br> ⚡ Fun fact : I don't hate JavaScript
 
 
 ## 🌐 Socials:
